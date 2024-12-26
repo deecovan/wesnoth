@@ -1,0 +1,52 @@
+_last_cache_cleaned_ver="1.18.2"
+ally_sighted_interrupts=yes
+animate_map=no
+animate_water=yes
+auto_pixel_scale=no
+auto_save_max=10
+chat_lines=6
+chat_timestamp=no
+delete_saves=no
+disable_auto_moves=no
+draw_delay=-1
+enable_planning_mode_on_start=no
+encountered_terrain_list="Ch, Ct, Cv, Cvr, Ds, Dt, Ft, Gg^Efm, Gg^Em, Gg^Fds, Gg^Fet, Gg^Fms, Gg^Fp, Gg^Gvs, Gg^Tf, Gg^Ve, Gg, Gll^Fds, Gll^Fms, Gs^Efm, Gs^Em, Gs^Fds, Gs^Fms, Gs^Fp, Gs, Gt, Hh^Fds, Hh^Fms, Hh, Ht, Kh, Kv, Kvr, Rb, Rd, Re^Es, Re, Rp, Tt, Vt, Wdt, Wo^Bw/, Wo^Es, Wo, Wrt, Wst, Ww^Bw/, Ww^Bw\, Ww^Es, Ww^Ewf, Ww, Wwf, Wwr"
+encountered_units="Elder Mage,Elvish Archer,Elvish Champion,Elvish Fighter,Elvish Shaman,Fighter,Orcish Archer,Orcish Grunt,Orcish Warrior,Quintain,Wolf Rider"
+floating_labels=yes
+grid=no
+hide_whiteboard=no
+idle_anim=no
+idle_anim_rate=0
+lobby_whisper_friends_only=no
+locale="ru_RU"
+minimap_draw_villages=yes
+minimap_terrain_coding=no
+music=no
+pixel_scale=1
+remember_password=no
+save_replays=yes
+scroll=50
+scroll_threshold=10
+show_side_colors=yes
+skip_ai_moves=no
+sound_volume=59
+sp_modifications=""
+stop_music_in_background=no
+tile_size=100
+turbo=no
+turbo_speed=2
+turn_dialog=no
+unit_standing_animations=no
+vsync=yes
+[achievements]
+	content_for="tutorial"
+	ids=""
+	[in_progress]
+		id="completed"
+		progress_at=1
+	[/in_progress]
+[/achievements]
+[completed_campaigns]
+[/completed_campaigns]
+[history]
+[/history]
